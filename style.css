@@ -1,0 +1,29 @@
+#buttonContainer {
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  width: 150px;
+  height: 30px;
+}
+
+#gridContainer {
+  overflow: auto;
+  width: 960px;
+  margin: auto;
+}
+
+.square {
+  background-color: white;
+  float: left;
+  border: 1px solid black;
+}
+
+.square-change {
+  background-color: black;
+}
+
+.new-row {
+  clear: both;
+}
